@@ -9,3 +9,6 @@
 [Full Udacity DeepLearning-with Pytorch](https://github.com/udacity/deep-learning-v2-pytorch/tree/master)
 
 [Explaination of a Neural Network from Scratch](https://github.com/VikParuchuri/zero_to_gpt/blob/master/explanations/dense.ipynb)
+
+[CNN](https://cs231n.github.io/convolutional-networks/)
+
